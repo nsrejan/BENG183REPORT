@@ -11,47 +11,47 @@ Currently, to detect cancer, one must undergo a tissue biopsy, to screen for evi
 
 
 ![Image 1](https://github.com/nsrejan/BENG183REPORT/raw/master/Fig1BENG.png)
-# Fig 1. A solid biopsy of 4 locations is needed to profile and treat a patient vs a liquid biopsy that is away from the site of the tumor that can diagnose the patient with minimal to no harm to the infected organs. 
+#### Fig 1. A solid biopsy of 4 locations is needed to profile and treat a patient vs a liquid biopsy that is away from the site of the tumor that can diagnose the patient with minimal to no harm to the infected organs. 
 
 
-### Biomarkers:
+## Biomarkers:
 
-## Circulating tumor cell:
+### Circulating tumor cell:
 
 In the cfDNA we look to isolate circulating tumor cells (CTC’s). CTC is a tumor cell that is in the bloodstream, and are the causes of blood-borne metastasis(5). The presence of CTC in the plasma of a patient is indicative of early detection of metastasis. Although CTC’s are great biomarkers, there is about 1 to 10 CTC’s found in 1 to 100 million white blood cells(3).
 
-##Circulating tumor DNA:
+### Circulating tumor DNA:
 
 Another form of cfDNA, circulating tumor DNA (ctDNA), is said to have passively left dying tumor cells or are actively released by secretion of tumor cells(3). ctDNA is unique as it is slightly easier to isolate than CTC’s and are more stable than cells and RNA(6). ctDNA in the presence of cfDNA can be uniquely identified due to tumor specific mutations, copy numbers, and ctDNA methylation(7). Methylation of the ctDNA makes ctDNA a key biomarker for cancer detection. ctDNA not only show the mutations, but also the methylation around the promoter region, which helps show how and why cancer may be under expressing or overexpressing certain proteins. Furthermore, monitoring ctDNA levels compared to CTC levels shows that one can predict relapse after surgery.
 
 ![Image 2](https://github.com/nsrejan/BENG183REPORT/raw/master/Fig2BENG.png)
-# Fig 2. Random patient data with analysis of ctDNA versus CTC levels in a given time period where PD is progressive disease, PR is partial response, and SD is stable disease. 
+#### Fig 2. Random patient data with analysis of ctDNA versus CTC levels in a given time period where PD is progressive disease, PR is partial response, and SD is stable disease. 
 
-### Detection of cancer:
+## Detection of cancer:
 
-## Whole Genome Sequencing 
+### Whole Genome Sequencing 
 Whole genome sequencing(WGS) is used to sequence an entire cancer patient’s genome and map it to a germline genome. WGS of the patient’s ctDNA allows us to map the mutations on the chromosomal loci to find the copy number variations(CNV) present. This approach also helps to detect a higher ratio of intronic or passenger mutations than targeted re-sequencing(8).
 
-## Whole Exome Sequencing 
+### Whole Exome Sequencing 
 Whole exome sequencing (WES) is used to sequence the protein coding regions (exons) of the cancer patient’s genome and map it to a germline genome. WGS of the patient’s ctDNA allows counting of the number of allelic fractions of mutations present. This allows one to track the CNV over time from the beginning of the treatment to its end, and allows tracking of potential relapse. WES gives a deeper look into mutation regions sought out by WGS while being more cost effective(8).
 
-### Treatment of cancer through targeted sequencing:
+## Treatment of cancer through targeted sequencing:
 
-## Cancer personalized profiling by deep sequencing:
+### Cancer personalized profiling by deep sequencing:
 Cancer personalized profiling by deep sequencing (CAPP-Seq) is a next generation sequencing(NGS) technology that is an economical and an ultrasensitive method for quantifying ctDNA.9  Since tumor levels are correlated with ctDNA levels, CAPP-Seq is able to detect ctDNA levels in 100% of small cell lung cancer (NSCLC) patients in stage II-IV while being able to detect 50% of ctDNA in stage I(9). CAPP-Seq is able to quantify ctDNA by creating a library of the mutation regions shown by the global WES of cancer patients and having a “selector.” This “selector” is then used to find individual genetic variations in the patient and the ctDNA. This allows quantification of ctDNA(9). Using CAPP-Seq to monitor ctDNA levels proves important in monitoring relapse and treatment to avoid further tumor growth.
 
 ![Image 3](https://github.com/nsrejan/BENG183REPORT/raw/master/Fig3BENG.png)
-# Fig 3. Pipeline of CAPP-Seq through detection of cancer specific mutations used to compare to a new patient to discover patient specific mutations and quantify ctDNA levels.
+#### Fig 3. Pipeline of CAPP-Seq through detection of cancer specific mutations used to compare to a new patient to discover patient specific mutations and quantify ctDNA levels.
 
-## Tagged Amplicon deep Sequencing
+### Tagged Amplicon deep Sequencing
 
 Tagged Amplicon deep Sequencing (TAm-Seq) is another NGS technology that uses the library of gene hotspots and CNV’s that were produced through WGS and WES, to detect and quantify the known cancer mutations in the ctDNA. TAm-Seq is able to identify allele frequencies as low as 2% with a sensitivity and specificity of greater than 97%(10). TAm-Seq utilizes two step amplification with high throughput PCR. Primers are specifically designed to cover CNV regions of interest. The first amplification takes place in parallel, preserving all alleles with mutations, then, selectively amplifies regions of interest using single-plex PCR. Finally, sequence adaptors are added to the amplicons before being pooled and sequenced(10). Over time, TAm-Seq provides single nucleotide variation (SNV) level analysis to tract treatment and growth of tumors where one can find common mutations and patterns among individuals fighting the same cancer, so as  to personalize their treatment based on mutation variations. TAm-Seq as a targeted sequencing method is the cheapest NGS in which many samples can be run in parallel.
 
 ![Image 4](https://github.com/nsrejan/BENG183REPORT/raw/master/Fig4BENG.png)
-# Fig 4. Analysis of multiple patients and their allele frequency over time for multiple mutations from a given gene panel.
+#### Fig 4. Analysis of multiple patients and their allele frequency over time for multiple mutations from a given gene panel.
 
 ![Image 5](https://github.com/nsrejan/BENG183REPORT/raw/master/Fig5BENG.png)
-#5 Fig 5: TAm-Seq pipeline for detection of mutations a gene panel though coloring of gene based on amount of mutations in gene present.
+####5 Fig 5: TAm-Seq pipeline for detection of mutations a gene panel though coloring of gene based on amount of mutations in gene present.
 
 <table>
  <tbody>
@@ -95,7 +95,7 @@ Tagged Amplicon deep Sequencing (TAm-Seq) is another NGS technology that uses th
 </table>
 <br>
 
-# Table 1. Summary of WGS, WES, and targeted sequencing and their pros and cons.
+#### Table 1. Summary of WGS, WES, and targeted sequencing and their pros and cons.
 
 ## Future of precision medicine:
 
