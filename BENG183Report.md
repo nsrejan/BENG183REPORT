@@ -93,8 +93,6 @@ Tagged Amplicon deep Sequencing (TAm-Seq) is another NGS technology that uses th
     </tr>
  </tbody>
 </table>
-<br>
-
 #### Table 1. Summary of WGS, WES, and targeted sequencing and their pros and cons.
 
 ## Future of precision medicine:
