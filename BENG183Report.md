@@ -51,7 +51,7 @@ Tagged Amplicon deep Sequencing (TAm-Seq) is another NGS technology that uses th
 #### Fig 4. Analysis of multiple patients and their allele frequency over time for multiple mutations from a given gene panel.
 
 ![Image 5](https://github.com/nsrejan/BENG183REPORT/raw/master/Fig5BENG.png)
-####5 Fig 5: TAm-Seq pipeline for detection of mutations a gene panel though coloring of gene based on amount of mutations in gene present.
+#### Fig 5: TAm-Seq pipeline for detection of mutations a gene panel though coloring of gene based on amount of mutations in gene present.
 
 <table>
  <tbody>
